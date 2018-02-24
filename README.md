@@ -1,7 +1,7 @@
 # StockPriceRetrieve
 
 A small python web crawler used by Software Engineering Web Application Course.
-The crawler retrieve dynamicly the historical prices of Amazon from Yahoo Finance webpage and store the data in local.
+The crawler retrieve dynamicly the historical prices of Amazon from Yahoo Finance("https://finance.yahoo.com/quote/AMZN/history?p=AMZN") and store the data in local.
 
 Notes:
 1. Use Beautiful Soup(bs4) and Requests to analyze html file.
